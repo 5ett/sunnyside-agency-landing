@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
+- Solution URL: [Github Repo](https://github.com/5ett/sunnyside-agency-landing)
 - Live Site URL: [Sunnyside Agency](https://your-live-site-url.com)
 
 ## My process
