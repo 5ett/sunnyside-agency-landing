@@ -30,11 +30,10 @@ Users should be able to:
 ![Sunyside Agency Desktop Screenshot](./screenshots/desktop_0.jpg)
 
 
-
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/5ett/sunnyside-agency-landing)
-- Live Site URL: [Sunnyside Agency](https://your-live-site-url.com)
+- Live Site URL: [Sunnyside Agency](https://sunnyside-agen-c.netlify.app)
 
 ## My process
 

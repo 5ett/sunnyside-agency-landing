@@ -56,7 +56,7 @@ h3{
     background-size: cover;
 }
 
-@media all and ( max-width: 375px ) , ( max-width: 411px ) {
+@media all and ( max-width: 375px ) , ( max-width: 470px ) {
     .hero{
         background-image: url(/images/mobile/image-header.jpg);
     }    
@@ -132,7 +132,7 @@ h3{
     background-color:skyblue;
 }
 
-@media all and  ( max-width: 375px ) , ( max-width: 411px ){
+@media all and  ( max-width: 375px ) , ( max-width: 470px ){
     .navbar{
         padding: 30px 15px;
     }
@@ -166,7 +166,10 @@ h3{
         text-align: center;
         color: hsl(213, 9%, 39%);
         background-color: hsl(0, 0%, 100%);
-        display: none;
+        /* display: none; */
+        right: 10em;
+        opacity: 0;
+        border-radius: 9px;
         transition: all .3s;
     }
 
@@ -203,7 +206,7 @@ h3{
     margin-bottom: 1em;
 }
 
-@media all and  ( max-width: 375px ) , ( max-width: 411px ) {
+@media all and  ( max-width: 375px ) , ( max-width: 470px ) {
     .landing-text h1{
         font-size: 50px;
         text-align: center;
@@ -289,7 +292,7 @@ h3{
     padding: 0 10px;
 }
 
-@media all and  (max-width: 375px) , ( max-width: 411px ) {
+@media all and  (max-width: 375px) , ( max-width: 470px ) {
     .about-section{
         flex-direction: column;
         text-align: center;
@@ -350,7 +353,7 @@ h3{
     background-image: url(/images/desktop/image-photography.jpg);
 }
 
-@media all and  ( max-width: 375px ) , ( max-width: 411px ) {
+@media all and  ( max-width: 375px ) , ( max-width: 470px ) {
     .gd-color,
     .pht-color{
         min-height: 100vh;
@@ -414,7 +417,7 @@ h3{
     border-radius: 50%;
 }
 
-@media all and  ( max-width: 375px ) , ( max-width: 411px ) {
+@media all and  ( max-width: 375px ) , ( max-width:470px ) {
     .testimonials{
         padding-top: 5em;
         padding-bottom: 1em;
@@ -451,7 +454,7 @@ h3{
     height: 400px;
 }
 
-@media all and  ( max-width: 375px ) , ( max-width: 411px ) {
+@media all and  ( max-width: 375px ) , ( max-width:470px) {
     .photo-set{
         flex-wrap: wrap; 
     }
@@ -505,7 +508,7 @@ footer .brand{
     filter: brightness(0) invert(1);
 }
 
-@media all and  ( max-width: 375px ) , ( max-width: 411px ) {
+@media all and  ( max-width: 375px ) , ( max-width: 470px ) {
     footer .brand{
         margin-bottom: 0.5em;
     }
