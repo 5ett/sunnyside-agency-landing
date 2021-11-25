@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![Sunyside Agency Desktop Screenshot](./screenshots/desktop_0.jpg)
-![Sunyside Agency Desktop Screenshot](./screenshots/sunnyside.jpeg)
+
 
 
 ### Links
